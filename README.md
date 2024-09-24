@@ -9,7 +9,7 @@ Code for this paper: Enhanced semi-supervised medical image segmentation based o
    ```
 2. Clone the repo:
    ```bash
-   git clone https://github.com/gooddress/gooddress.github.io.git
+   git clone https://github.com/gooddress/Semi-supervised-medical-image-segmentation.git
    ```
 3. Activate the environment:
    ```bash
