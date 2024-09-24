@@ -1,4 +1,4 @@
-## 
+## Code
 Code for this paper: Enhanced semi-supervised medical image segmentation based on dual-scale image perturbation strategy and knowledge distillation
 
 ## Requirements
